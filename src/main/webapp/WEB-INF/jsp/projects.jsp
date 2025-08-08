@@ -121,7 +121,7 @@
           <span class="badge bg-success">MySQL</span>
         </div>
       </div>
-      <a href="https://github.com/dhreetigithub3/education-management-system" class="btn btn-outline-dark btn-sm mt-2 mt-md-0" target="_blank">GitHub</a>
+      <a href="https://github.com/dhreetigithub3/ems" class="btn btn-outline-dark btn-sm mt-2 mt-md-0" target="_blank">GitHub</a>
     </li>
     </br>
     <li class="list-group-item fade-in-up d-flex flex-column flex-md-row justify-content-between align-items-md-center" style="animation-delay:0.7s">
@@ -148,7 +148,7 @@
           <span class="badge bg-warning">Bootstrap</span>
         </div>
       </div>
-      <a href="https://github.com/dhreetigithub3/spring-portfolio" class="btn btn-outline-dark btn-sm mt-2 mt-md-0" target="_blank">GitHub</a>
+      <a href="https://github.com/dhreetigithub3/dhreetikumarsahoo" class="btn btn-outline-dark btn-sm mt-2 mt-md-0" target="_blank">GitHub</a>
     </li>
   </ul>
 </section>
