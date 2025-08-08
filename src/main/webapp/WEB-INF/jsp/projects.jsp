@@ -156,7 +156,7 @@
 <footer class="bg-dark text-white text-center py-3 fade-in" style="animation-delay:1.2s">
   <div class="container">
     &copy; 2025 Dhreeti Kumar Sahoo |
-    <a href="mailto:your.email@example.com" class="text-white">Email</a> |
+    <a href="mailto:sahoodhreetikumar@gmail.com" class="text-white">Email</a> |
     <a href="https://github.com/dhreetigithub3" class="text-white">GitHub</a>
   </div>
 </footer>
