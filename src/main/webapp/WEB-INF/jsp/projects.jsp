@@ -135,7 +135,7 @@
           <span class="badge bg-warning">Bootstrap</span>
         </div>
       </div>
-      <a href="https://github.com/dhreetigithub3/cake-shop" class="btn btn-outline-dark btn-sm mt-2 mt-md-0" target="_blank">GitHub</a>
+      <a href="https://github.com/dhreetigithub3/Cake-Shop" class="btn btn-outline-dark btn-sm mt-2 mt-md-0" target="_blank">GitHub</a>
     </li>
     </br>
     <li class="list-group-item fade-in-up d-flex flex-column flex-md-row justify-content-between align-items-md-center" style="animation-delay:0.8s">
