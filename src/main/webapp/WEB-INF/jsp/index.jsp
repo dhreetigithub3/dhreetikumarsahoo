@@ -124,7 +124,7 @@
   <div class="container">
     &copy; 2025 Dhreeti Kumar Sahoo |
     <a href="mailto:sahoodhreetikumar@gmail.com" class="text-white">Email</a> |
-    <a href="https://github.com/yourusername" class="text-white">GitHub</a>
+    <a href="https://github.com/dhreetigithub3" class="text-white">GitHub</a>
   </div>
 </footer>
 
