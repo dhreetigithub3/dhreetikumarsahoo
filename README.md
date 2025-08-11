@@ -28,7 +28,7 @@ A modern, responsive portfolio website built with Spring Boot and JSP.
 ### Local Development
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spring-portfolio.git
+   git clone https://github.com/dhreetigithub3/dhreetikumarsahoo.git
    cd spring-portfolio
    ```
 
