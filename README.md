@@ -127,6 +127,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Dhreeti Kumar Sahoo - [Your Email]
+Dhreeti Kumar Sahoo - [sahoodhreetikumar@gmail.com]
 
-Project Link: [https://github.com/yourusername/spring-portfolio](https://github.com/yourusername/spring-portfolio)
+Project Link: [https://github.com/dhreetigithub3/dhreetikumarsahoo](https://github.com/dhreetigithub3/dhreetikumarsahoo)
