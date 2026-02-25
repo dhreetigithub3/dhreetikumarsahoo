@@ -1,4 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -106,6 +107,16 @@
       <div class="card shadow border-0">
         <div class="card-body p-5">
           <h2 class="card-title mb-4 text-center">Get In Touch</h2>
+          <c:if test="${param.success eq 'true'}">
+            <div class="alert alert-success" role="alert">
+              Thank you for your message! I'll get back to you soon.
+            </div>
+          </c:if>
+          <c:if test="${param.success eq 'false'}">
+            <div class="alert alert-danger" role="alert">
+              There was an error sending your message. Please try again.
+            </div>
+          </c:if>
           <form action="${pageContext.request.contextPath}/contact" method="post" class="mb-4">
             <div class="row g-3">
               <div class="col-md-6">
